@@ -7,8 +7,7 @@ import javafx.scene.chart.NumberAxis;
 import javafx.scene.chart.XYChart;
 import javafx.stage.Stage;
 
-
-public class JavaFXTest extends Application {
+public class LineChartStage extends Application {
 
     @Override public void start(Stage stage) {
         stage.setTitle("Line Chart Sample");
